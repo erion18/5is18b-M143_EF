@@ -27,7 +27,7 @@ public class MyBatchPreparedStmt {
             int count[] = pst.executeBatch();
             for(int i=1;i<=count.length;i++){
                 System.out.println("Query "+i+" has effected "+count[i]+" times");
-            }
+            }Filip Milosavljevic
             con.commit();
         } catch (ClassNotFoundException e) {
             try {
