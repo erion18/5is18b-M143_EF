@@ -1,0 +1,298 @@
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\a0
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               167 48065b90687878e89d521dff86bdfde9cd9f42
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\5b
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               184 27f877ef629485809e35b5dd5485d889a75f95
+               1 Datei(en),            184 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\17
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               166 5faaac8d3ca0e6656da279f4694707c12f57e0
+               1 Datei(en),            166 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\cd
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               127 68b2592663f9f060c8610dc21641c0e8c1b17c
+               1 Datei(en),            127 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\e2
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               164 6f091c4dbdfaa426be29d11af6334e3601a161
+               1 Datei(en),            164 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\6f
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               164 6a51eaec70053eff439ac2d8e525739616cfd7
+               1 Datei(en),            164 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\39
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               823 faee5182c59cdc6059c68978e4d080ade2b2d1
+               1 Datei(en),            823 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\87
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               820 1f13b8edae4daf2ac69b2d293469f57950ead2
+               1 Datei(en),            820 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\dd
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               624 37a92ebe68a1c93e37b7130d7f9191372517f9
+               1 Datei(en),            624 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\8f
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               564 9762eea447356696112015c580f09d1a681554
+               1 Datei(en),            564 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\4d
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               127 84b4cf1ec3e6a6b6aea312a132d62fa8bd53f9
+               1 Datei(en),            127 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\7a
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               816 8dabbed5a37ec75de37e11db8779b1b3f216e7
+               1 Datei(en),            816 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\a2
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               164 4831af75d595ffad408b205d00407992c72ff0
+               1 Datei(en),            164 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\db
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               127 053f4e6ccbee029af28264db88d31a60155b02
+               1 Datei(en),            127 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\bb
+
+19.06.2020  16:19    <DIR>          .
+19.06.2020  16:19    <DIR>          ..
+19.06.2020  16:19               229 3c76027ac23a568068944b0e6e40629c450025
+               1 Datei(en),            229 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\42
+
+19.06.2020  16:21    <DIR>          .
+19.06.2020  16:21    <DIR>          ..
+19.06.2020  16:22               649 c2a7c0c011545dfa1cf296ac6614575ac536ff
+               1 Datei(en),            649 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\fa
+
+19.06.2020  16:21    <DIR>          .
+19.06.2020  16:21    <DIR>          ..
+19.06.2020  16:22               816 e2864cc84bbf18ce6b004ff02641def2703527
+               1 Datei(en),            816 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\8b
+
+19.06.2020  16:22    <DIR>          .
+19.06.2020  16:22    <DIR>          ..
+19.06.2020  16:22               164 13ca7abe756e3cdad50fed6e15f5927057247e
+               1 Datei(en),            164 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\d0
+
+19.06.2020  16:22    <DIR>          .
+19.06.2020  16:22    <DIR>          ..
+19.06.2020  16:22               127 d8f538fc470aa2ce8c1683f8542023154b2bd5
+               1 Datei(en),            127 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\84
+
+19.06.2020  16:22    <DIR>          .
+19.06.2020  16:22    <DIR>          ..
+19.06.2020  16:22               157 64596e11424444aaa12dc103d40d92983f2130
+               1 Datei(en),            157 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\e8
+
+19.06.2020  16:23    <DIR>          .
+19.06.2020  16:23    <DIR>          ..
+19.06.2020  16:23               564 f58ec55df6c5f10702afee2db4a0a95e66a0b9
+               1 Datei(en),            564 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\ad
+
+19.06.2020  16:23    <DIR>          .
+19.06.2020  16:23    <DIR>          ..
+19.06.2020  16:23               816 45287d3a5a90902e65f488e0d02b41ae6a0a89
+               1 Datei(en),            816 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\0e
+
+19.06.2020  16:23    <DIR>          .
+19.06.2020  16:23    <DIR>          ..
+19.06.2020  16:23               163 dde272f167703706caf5df7445ebd89bce07b9
+               1 Datei(en),            163 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\d2
+
+19.06.2020  16:23    <DIR>          .
+19.06.2020  16:23    <DIR>          ..
+19.06.2020  16:23               128 cb9bfa7aca5f9417d19c590f49da03c94eacaf
+               1 Datei(en),            128 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\objects\48
+
+19.06.2020  16:23    <DIR>          .
+19.06.2020  16:23    <DIR>          ..
+19.06.2020  16:23               158 380a8c303118603bb5ef5904eec2206bcaed4a
+               1 Datei(en),            158 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\logs
+
+19.06.2020  16:09    <DIR>          .
+19.06.2020  16:09    <DIR>          ..
+19.06.2020  16:09    <DIR>          refs
+19.06.2020  16:23               986 HEAD
+               1 Datei(en),            986 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\logs\refs
+
+19.06.2020  16:09    <DIR>          .
+19.06.2020  16:09    <DIR>          ..
+19.06.2020  16:09    <DIR>          remotes
+19.06.2020  16:09    <DIR>          heads
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\logs\refs\remotes
+
+19.06.2020  16:09    <DIR>          .
+19.06.2020  16:09    <DIR>          ..
+19.06.2020  16:09    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\logs\refs\remotes\origin
+
+19.06.2020  16:09    <DIR>          .
+19.06.2020  16:09    <DIR>          ..
+19.06.2020  16:09               186 HEAD
+19.06.2020  16:23               777 master
+               2 Datei(en),            963 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\.git\logs\refs\heads
+
+19.06.2020  16:09    <DIR>          .
+19.06.2020  16:09    <DIR>          ..
+19.06.2020  16:23               986 master
+               1 Datei(en),            986 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\15 - GIT
+
+19.06.2020  16:09    <DIR>          .
+19.06.2020  16:09    <DIR>          ..
+19.06.2020  16:09    <DIR>          Java_File_IO_Examples
+19.06.2020  16:09    <DIR>          Java_JDBC_Examples
+19.06.2020  16:09    <DIR>          Java_Sort_Examples
+19.06.2020  16:09                92 @README.txt
+               1 Datei(en),             92 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\15 - GIT\Java_File_IO_Examples
+
+19.06.2020  16:09    <DIR>          .
+19.06.2020  16:09    <DIR>          ..
+19.06.2020  16:09             1'233 @README.txt
+19.06.2020  16:09               838 ByteArrToInputStream.java
+19.06.2020  16:09             1'055 ByteWriteToFile.java
+19.06.2020  16:09               601 ClassLoaderFileLoading.java
+19.06.2020  16:09               327 FileListFromFolder.java
+19.06.2020  16:09             1'005 FileToByteArray.java
+19.06.2020  16:09               328 FilesListFromFolder.java
+19.06.2020  16:09             1'056 MyByteArrayToReader.java
+19.06.2020  16:09               655 MyFileFilter.java
+19.06.2020  16:09               262 MyFileLastModified.java
+19.06.2020  16:09             1'318 MyFileOperations.java
+19.06.2020  16:09               855 MyFilePermissions.java
+19.06.2020  16:09             1'021 MyFileReadBybis.java
+19.06.2020  16:09               230 MyFileUrl.java
+19.06.2020  16:09               796 MyFileXmlStore.java
+19.06.2020  16:09               943 MyIstoBr.java
+19.06.2020  16:09             2'817 MyObjectFileStore.java
+19.06.2020  16:09               799 MyPropertyFileStore.java
+19.06.2020  16:09             1'180 MyTempDelete.java
+19.06.2020  16:09               836 MyTempFileWrite.java
+19.06.2020  16:09               513 MyTmpFile.java
+19.06.2020  16:09               828 ReadFromConsole.java
+19.06.2020  16:09               748 ReadLinesFromFile.java
+19.06.2020  16:09             1'067 WriteToFile.java
+19.06.2020  16:16               676 MyFilteredFileList.java.txt
+              25 Datei(en),         21'987 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\15 - GIT\Java_JDBC_Examples
+
+19.06.2020  16:09    <DIR>          .
+19.06.2020  16:09    <DIR>          ..
+19.06.2020  16:09             1'611 @README.txt
+19.06.2020  16:09               248 @README2.txt
+19.06.2020  16:09               849 JdbcConnection.java
+19.06.2020  16:09             1'639 MyAutoGeneratedKeys.java
+19.06.2020  16:09             1'348 MyBatchCallableStatement.java
+19.06.2020  16:21             1'752 MyBatchPreparedStmt.java
+19.06.2020  16:09             1'635 MyBlobInsert.java
+19.06.2020  16:09             2'176 MyBlobRead.java
+19.06.2020  16:09               806 MyConnWithProperties.java
+19.06.2020  16:09             1'487 MyCursorCallableStmt.java
+19.06.2020  16:09             1'239 MyDatabaseMetadata.java
+19.06.2020  16:09             1'658 MyExecuteMethod.java
+19.06.2020  16:09             1'443 MyFunctionCallableStmt.java
+19.06.2020  16:09             1'446 MyOutparmCallableStmt.java
+19.06.2020  16:09             1'656 MyPrepStmtResltSet.java
+19.06.2020  16:09             1'194 MyResultSetEx.java
+19.06.2020  16:09             1'507 MyResultSetMetadata.java
+19.06.2020  16:09             1'748 MyScrollableResultSetEx.java
+19.06.2020  16:09             1'255 MySimpleCallableStatement.java
+19.06.2020  16:09             1'685 MyStatementBatchUpdate.java
+19.06.2020  16:09             1'533 MyUpdatableResultSet.java
+19.06.2020  16:19             1'499 MyPreparedStatement.java
+19.06.2020  16:23             1'291 MyQueryUpdate.java
+              23 Datei(en),         32'705 Bytes
+
+ Verzeichnis von D:\10 Hofstetter\5is18b-M143_EF\15 - GIT\Java_Sort_Examples
+
+19.06.2020  16:09    <DIR>          .
+19.06.2020  16:09    <DIR>          ..
+19.06.2020  16:09             1'044 MyBubbleSort.java
+19.06.2020  16:09               748 MyInsertionSort.java
+19.06.2020  16:09             1'904 MyMergeSort.java
+19.06.2020  16:09             2'065 MyQuickSort.txt
+19.06.2020  16:09               787 MySelectionSort.java
+               5 Datei(en),          6'548 Bytes
+
+     Anzahl der angezeigten Dateien:
+             119 Datei(en),        126'782 Bytes
+             161 Verzeichnis(se), 109'553'123'328 Bytes frei

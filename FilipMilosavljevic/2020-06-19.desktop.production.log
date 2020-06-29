@@ -1,0 +1,104 @@
+2020-06-19T12:27:30.677Z - info: [main] Received possible protocol arguments: 2
+2020-06-19T12:27:30.682Z - error: [main] Malformed launch arguments received: C:\Users\fmilosavljevic\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe,--squirrel-firstrun
+2020-06-19T12:27:32.146Z - info: [ui] [AppStore] loading 0 repositories from store
+2020-06-19T12:27:32.170Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:27:32.174Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:27:32.279Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:27:34.433Z - info: [ui] launching: 2.5.2 (Windows 6.1.7601)
+2020-06-19T12:27:34.433Z - info: [ui] execPath: 'C:\Users\fmilosavljevic\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T12:27:34.434Z - info: [ui] Opt in reported.
+2020-06-19T12:27:36.207Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 3.904s)
+2020-06-19T12:27:42.588Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:27:48.477Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:27:52.745Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2020-06-19T12:27:52.746Z - info: [ui] [SignInStore] initializing OAuth flow
+2020-06-19T12:27:52.747Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=065f9778-4b23-4e37-863a-a783fc523f4d
+2020-06-19T12:27:52.756Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2020-06-19T12:27:54.857Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:28:30.641Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:28:31.992Z - info: [ui] [Welcome] advancing to step: Start
+2020-06-19T12:28:45.880Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2020-06-19T12:28:45.882Z - info: [ui] [SignInStore] initializing OAuth flow
+2020-06-19T12:28:45.883Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=99a1522a-9823-419a-b572-35b67149f1e8
+2020-06-19T12:28:45.883Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:28:46.778Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:29:32.210Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:34:48.944Z - info: [main] Received possible protocol arguments: 5
+2020-06-19T12:34:48.944Z - info: [main] Processing protocol url
+2020-06-19T12:34:48.973Z - info: [ui] [Dispatcher] requesting authenticated user
+2020-06-19T12:34:48.974Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:34:49.098Z - info: [main] Received possible protocol arguments: 3
+2020-06-19T12:34:49.102Z - info: [main] Processing protocol url
+2020-06-19T12:34:50.249Z - info: [ui] [SignInStore] account resolved
+2020-06-19T12:34:50.251Z - info: [ui] [AppStore] adding account HerrMilo (HerrMilo) to store
+2020-06-19T12:34:50.253Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2020-06-19T12:34:50.332Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:34:50.354Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:34:50.619Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:35:04.540Z - info: [ui] [Welcome] advancing to step: UsageOptOut
+2020-06-19T12:35:07.808Z - info: [ui] Opt in reported.
+2020-06-19T13:54:19.400Z - info: [ui] [AppStore] loading 0 repositories from store
+2020-06-19T13:54:19.401Z - info: [ui] [AppStore] found account: HerrMilo (HerrMilo)
+2020-06-19T13:54:21.432Z - info: [ui] launching: 2.5.2 (Windows 6.1.7601)
+2020-06-19T13:54:21.434Z - info: [ui] execPath: 'C:\Users\fmilosavljevic\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T13:54:21.449Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.876s)
+2020-06-19T13:54:22.631Z - info: [ui] Stats reported.
+2020-06-19T14:05:57.825Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/erion18/5is18b-M143_EF.git - HerrMilo (has token)
+2020-06-19T14:06:03.092Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/erion18/5is18b-M143_EF.git C:\Users\fmilosavljevic\Documents\GitHub\5is18b-M143_EF (took 5.067s)
+2020-06-19T14:06:03.237Z - info: [ui] [AppStore] adding repository at C:\Users\fmilosavljevic\Documents\GitHub\5is18b-M143_EF to store
+2020-06-19T14:06:08.442Z - info: [ui] Executing isUsingLFS: git lfs track (took 5.036s)
+2020-06-19T14:06:08.945Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-19T14:06:10.666Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.946s)
+2020-06-19T14:06:48.711Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:06:48.727Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:06:51.250Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.375s)
+2020-06-19T14:09:39.816Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/erion18/5is18b-M143_EF.git - HerrMilo (has token)
+2020-06-19T14:09:44.811Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/erion18/5is18b-M143_EF.git D:\10 Hofstetter\5is18b-M143_EF (took 4.842s)
+2020-06-19T14:09:44.932Z - info: [ui] [AppStore] adding repository at D:\10 Hofstetter\5is18b-M143_EF to store
+2020-06-19T14:09:49.464Z - info: [ui] Executing isUsingLFS: git lfs track (took 4.436s)
+2020-06-19T14:11:20.723Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:11:23.667Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.797s)
+2020-06-19T14:11:25.278Z - info: [ui] Background fetch for 2 repositories took 5.668sec
+2020-06-19T14:15:46.656Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-19T14:16:10.658Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:16:13.940Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.147s)
+2020-06-19T14:16:30.646Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:16:33.317Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 2.408s)
+2020-06-19T14:16:55.640Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-19T14:17:04.993Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-19T14:19:15.404Z - info: [ui] [Timing] Action 'create commit' for 'erion18/5is18b-M143_EF' took 1.741s
+2020-06-19T14:19:22.863Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:19:25.471Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 2.446s)
+2020-06-19T14:19:25.475Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin master:master --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/erion18/5is18b-M143_EF.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/erion18/5is18b-M143_EF.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-19T14:19:28.704Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:19:31.123Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.252s)
+2020-06-19T14:19:41.589Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:19:44.416Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 2.538s)
+2020-06-19T14:19:50.081Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:19:55.591Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 5.331s)
+2020-06-19T14:19:58.045Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.346s)
+2020-06-19T14:20:01.935Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:20:04.775Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.609s)
+2020-06-19T14:22:01.271Z - info: [ui] [Timing] Action 'create commit' for 'erion18/5is18b-M143_EF' took 1.741s
+2020-06-19T14:22:01.707Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:22:07.933Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 6.068s)
+2020-06-19T14:22:10.400Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.365s)
+2020-06-19T14:22:26.060Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:22:28.869Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.605s)
+2020-06-19T14:23:50.378Z - info: [ui] [Timing] Action 'create commit' for 'erion18/5is18b-M143_EF' took 1.532s
+2020-06-19T14:23:52.102Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:23:57.652Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 5.391s)
+2020-06-19T14:24:00.361Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.593s)
+2020-06-19T14:24:04.761Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - HerrMilo (has token)
+2020-06-19T14:24:08.170Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.250s)

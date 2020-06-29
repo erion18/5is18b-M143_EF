@@ -1,0 +1,9 @@
+2020-06-29T19:44:20.309Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-29T19:44:20.311Z - info: [ui] [AppStore] found account: HerrMilo (HerrMilo)
+2020-06-29T19:44:21.335Z - info: [ui] launching: 2.5.2 (Windows 6.1.7601)
+2020-06-29T19:44:21.335Z - info: [ui] execPath: 'C:\Users\fmilosavljevic\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-29T19:44:22.045Z - info: [ui] Stats reported.
+2020-06-29T19:44:32.033Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-29T19:44:33.698Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-29T19:44:33.856Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-29T19:44:52.503Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.758s)
