@@ -1,0 +1,506 @@
+E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF>dir /s
+ Datenträger in Laufwerk E: ist Samsung_T5
+ Volumeseriennummer: 6886-88F3
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12    <DIR>          15 - GIT
+19.06.2020  16:12                56 MemberList.txt
+19.06.2020  16:12                38 README.md
+               2 Datei(en),             94 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git
+
+19.06.2020  16:12                73 description
+19.06.2020  16:12    <DIR>          hooks
+19.06.2020  16:12    <DIR>          info
+19.06.2020  16:12    <DIR>          refs
+19.06.2020  16:12    <DIR>          objects
+19.06.2020  16:12               114 packed-refs
+19.06.2020  16:12    <DIR>          logs
+19.06.2020  16:12                23 HEAD
+19.06.2020  16:12               332 config
+19.06.2020  16:18                40 COMMIT_EDITMSG
+29.06.2020  21:35               103 FETCH_HEAD
+19.06.2020  16:18             6'682 index
+               7 Datei(en),          7'367 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\hooks
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12               478 applypatch-msg.sample
+19.06.2020  16:12               896 commit-msg.sample
+19.06.2020  16:12             3'327 fsmonitor-watchman.sample
+19.06.2020  16:12               189 post-update.sample
+19.06.2020  16:12               424 pre-applypatch.sample
+19.06.2020  16:12             1'638 pre-commit.sample
+19.06.2020  16:12             1'348 pre-push.sample
+19.06.2020  16:12             4'898 pre-rebase.sample
+19.06.2020  16:12               544 pre-receive.sample
+19.06.2020  16:12             1'492 prepare-commit-msg.sample
+19.06.2020  16:12             3'610 update.sample
+              11 Datei(en),         18'844 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\info
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12               240 exclude
+               1 Datei(en),            240 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\refs
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12    <DIR>          heads
+19.06.2020  16:12    <DIR>          tags
+19.06.2020  16:12    <DIR>          remotes
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\refs\heads
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:18                41 master
+               1 Datei(en),             41 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\refs\tags
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\refs\remotes
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\refs\remotes\origin
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12                32 HEAD
+29.06.2020  21:35                41 master
+               2 Datei(en),             73 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12    <DIR>          pack
+19.06.2020  16:12    <DIR>          info
+19.06.2020  16:14    <DIR>          04
+19.06.2020  16:14    <DIR>          b8
+19.06.2020  16:14    <DIR>          a8
+19.06.2020  16:14    <DIR>          82
+19.06.2020  16:14    <DIR>          56
+19.06.2020  16:17    <DIR>          dd
+19.06.2020  16:17    <DIR>          39
+19.06.2020  16:17    <DIR>          e2
+19.06.2020  16:17    <DIR>          4d
+19.06.2020  16:17    <DIR>          17
+19.06.2020  16:18    <DIR>          8f
+19.06.2020  16:18    <DIR>          87
+19.06.2020  16:18    <DIR>          6f
+19.06.2020  16:18    <DIR>          cd
+19.06.2020  16:18    <DIR>          5b
+29.06.2020  21:35    <DIR>          48
+29.06.2020  21:35    <DIR>          84
+29.06.2020  21:35    <DIR>          bb
+29.06.2020  21:35    <DIR>          a0
+29.06.2020  21:35    <DIR>          d2
+29.06.2020  21:35    <DIR>          a2
+29.06.2020  21:35    <DIR>          8b
+29.06.2020  21:35    <DIR>          0e
+29.06.2020  21:35    <DIR>          7a
+29.06.2020  21:35    <DIR>          fa
+29.06.2020  21:35    <DIR>          ad
+29.06.2020  21:35    <DIR>          83
+29.06.2020  21:35    <DIR>          42
+29.06.2020  21:35    <DIR>          e8
+29.06.2020  21:35    <DIR>          d0
+29.06.2020  21:35    <DIR>          db
+29.06.2020  21:35    <DIR>          ac
+29.06.2020  21:35    <DIR>          9f
+29.06.2020  21:35    <DIR>          a7
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\pack
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12            20'487 pack-1cb7c8ecf28e3e8cc2fa3aea5aa702fae16c47ea.pack
+19.06.2020  16:12             2'920 pack-1cb7c8ecf28e3e8cc2fa3aea5aa702fae16c47ea.idx
+               2 Datei(en),         23'407 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\info
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\04
+
+19.06.2020  16:14    <DIR>          .
+19.06.2020  16:14    <DIR>          ..
+19.06.2020  16:14               339 38ca8565a753bfe75f70d74f57b8a1397f0c57
+               1 Datei(en),            339 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\b8
+
+19.06.2020  16:14    <DIR>          .
+19.06.2020  16:14    <DIR>          ..
+19.06.2020  16:14               870 2a553bd4d0eff4769e85bed7af602f5e0fdc96
+               1 Datei(en),            870 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\a8
+
+19.06.2020  16:14    <DIR>          .
+19.06.2020  16:14    <DIR>          ..
+19.06.2020  16:14               163 ecf43204e4e3afbfc79c56ce89862a83c919aa
+               1 Datei(en),            163 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\82
+
+19.06.2020  16:14    <DIR>          .
+19.06.2020  16:14    <DIR>          ..
+19.06.2020  16:14               128 d29025a3b25f3526e2ec7626672d808140d682
+               1 Datei(en),            128 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\56
+
+19.06.2020  16:14    <DIR>          .
+19.06.2020  16:14    <DIR>          ..
+19.06.2020  16:14               169 3d01b90e2cb8a1ba039082e0f57391a6944541
+               1 Datei(en),            169 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\dd
+
+19.06.2020  16:17    <DIR>          .
+19.06.2020  16:17    <DIR>          ..
+19.06.2020  16:17               624 37a92ebe68a1c93e37b7130d7f9191372517f9
+               1 Datei(en),            624 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\39
+
+19.06.2020  16:17    <DIR>          .
+19.06.2020  16:17    <DIR>          ..
+19.06.2020  16:17               823 faee5182c59cdc6059c68978e4d080ade2b2d1
+               1 Datei(en),            823 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\e2
+
+19.06.2020  16:17    <DIR>          .
+19.06.2020  16:17    <DIR>          ..
+19.06.2020  16:17               164 6f091c4dbdfaa426be29d11af6334e3601a161
+               1 Datei(en),            164 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\4d
+
+19.06.2020  16:17    <DIR>          .
+19.06.2020  16:17    <DIR>          ..
+19.06.2020  16:17               127 84b4cf1ec3e6a6b6aea312a132d62fa8bd53f9
+               1 Datei(en),            127 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\17
+
+19.06.2020  16:17    <DIR>          .
+19.06.2020  16:17    <DIR>          ..
+19.06.2020  16:17               166 5faaac8d3ca0e6656da279f4694707c12f57e0
+               1 Datei(en),            166 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\8f
+
+19.06.2020  16:18    <DIR>          .
+19.06.2020  16:18    <DIR>          ..
+19.06.2020  16:18               564 9762eea447356696112015c580f09d1a681554
+               1 Datei(en),            564 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\87
+
+19.06.2020  16:18    <DIR>          .
+19.06.2020  16:18    <DIR>          ..
+19.06.2020  16:18               820 1f13b8edae4daf2ac69b2d293469f57950ead2
+               1 Datei(en),            820 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\6f
+
+19.06.2020  16:18    <DIR>          .
+19.06.2020  16:18    <DIR>          ..
+19.06.2020  16:18               164 6a51eaec70053eff439ac2d8e525739616cfd7
+               1 Datei(en),            164 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\cd
+
+19.06.2020  16:18    <DIR>          .
+19.06.2020  16:18    <DIR>          ..
+19.06.2020  16:18               127 68b2592663f9f060c8610dc21641c0e8c1b17c
+               1 Datei(en),            127 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\5b
+
+19.06.2020  16:18    <DIR>          .
+19.06.2020  16:18    <DIR>          ..
+19.06.2020  16:18               184 27f877ef629485809e35b5dd5485d889a75f95
+               1 Datei(en),            184 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\48
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               158 380a8c303118603bb5ef5904eec2206bcaed4a
+               1 Datei(en),            158 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\84
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               157 64596e11424444aaa12dc103d40d92983f2130
+               1 Datei(en),            157 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\bb
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               229 3c76027ac23a568068944b0e6e40629c450025
+               1 Datei(en),            229 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\a0
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               167 48065b90687878e89d521dff86bdfde9cd9f42
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\d2
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               128 cb9bfa7aca5f9417d19c590f49da03c94eacaf
+               1 Datei(en),            128 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\a2
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               164 4831af75d595ffad408b205d00407992c72ff0
+               1 Datei(en),            164 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\8b
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               164 13ca7abe756e3cdad50fed6e15f5927057247e
+               1 Datei(en),            164 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\0e
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               163 dde272f167703706caf5df7445ebd89bce07b9
+               1 Datei(en),            163 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\7a
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               816 8dabbed5a37ec75de37e11db8779b1b3f216e7
+               1 Datei(en),            816 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\fa
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               816 e2864cc84bbf18ce6b004ff02641def2703527
+               1 Datei(en),            816 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\ad
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               816 45287d3a5a90902e65f488e0d02b41ae6a0a89
+               1 Datei(en),            816 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\83
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               531 1152a6061ec0b9e84746d5f35e52f1b1f0575c
+               1 Datei(en),            531 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\42
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               649 c2a7c0c011545dfa1cf296ac6614575ac536ff
+               1 Datei(en),            649 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\e8
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               564 f58ec55df6c5f10702afee2db4a0a95e66a0b9
+               1 Datei(en),            564 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\d0
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               127 d8f538fc470aa2ce8c1683f8542023154b2bd5
+               1 Datei(en),            127 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\db
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               127 053f4e6ccbee029af28264db88d31a60155b02
+               1 Datei(en),            127 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\ac
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               127 b87eb7f4ea61bdc2c7378058efc21680f49458
+               1 Datei(en),            127 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\9f
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               164 634f286e635ce39eeb1aca83228009b7dad398
+               1 Datei(en),            164 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\objects\a7
+
+29.06.2020  21:35    <DIR>          .
+29.06.2020  21:35    <DIR>          ..
+29.06.2020  21:35               819 3247b4c464b6e0889bb47f3533a2bf612abec4
+               1 Datei(en),            819 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\logs
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12    <DIR>          refs
+19.06.2020  16:18               685 HEAD
+               1 Datei(en),            685 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\logs\refs
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12    <DIR>          remotes
+19.06.2020  16:12    <DIR>          heads
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\logs\refs\remotes
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\logs\refs\remotes\origin
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12               188 HEAD
+29.06.2020  21:35               611 master
+               2 Datei(en),            799 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\.git\logs\refs\heads
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:18               685 master
+               1 Datei(en),            685 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\15 - GIT
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12                92 @README.txt
+19.06.2020  16:12    <DIR>          Java_File_IO_Examples
+19.06.2020  16:12    <DIR>          Java_JDBC_Examples
+19.06.2020  16:12    <DIR>          Java_Sort_Examples
+               1 Datei(en),             92 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\15 - GIT\Java_File_IO_Examples
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12             1'233 @README.txt
+19.06.2020  16:12               838 ByteArrToInputStream.java
+19.06.2020  16:12             1'055 ByteWriteToFile.java
+19.06.2020  16:12               601 ClassLoaderFileLoading.java
+19.06.2020  16:12               327 FileListFromFolder.java
+19.06.2020  16:12             1'005 FileToByteArray.java
+19.06.2020  16:12               328 FilesListFromFolder.java
+19.06.2020  16:12             1'056 MyByteArrayToReader.java
+19.06.2020  16:12               655 MyFileFilter.java
+19.06.2020  16:12               262 MyFileLastModified.java
+19.06.2020  16:12             1'318 MyFileOperations.java
+19.06.2020  16:12               855 MyFilePermissions.java
+19.06.2020  16:12             1'021 MyFileReadBybis.java
+19.06.2020  16:12               230 MyFileUrl.java
+19.06.2020  16:12               796 MyFileXmlStore.java
+19.06.2020  16:12               676 MyFilteredFileList.java.txt
+19.06.2020  16:12               943 MyIstoBr.java
+19.06.2020  16:12             2'817 MyObjectFileStore.java
+19.06.2020  16:12               799 MyPropertyFileStore.java
+19.06.2020  16:12             1'180 MyTempDelete.java
+19.06.2020  16:12               836 MyTempFileWrite.java
+19.06.2020  16:12               513 MyTmpFile.java
+19.06.2020  16:12               828 ReadFromConsole.java
+19.06.2020  16:12               748 ReadLinesFromFile.java
+19.06.2020  16:12             1'067 WriteToFile.java
+              25 Datei(en),         21'987 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\15 - GIT\Java_JDBC_Examples
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12             1'611 @README.txt
+19.06.2020  16:12               248 @README2.txt
+19.06.2020  16:12               849 JdbcConnection.java
+19.06.2020  16:12             1'639 MyAutoGeneratedKeys.java
+19.06.2020  16:12             1'348 MyBatchCallableStatement.txt
+19.06.2020  16:12             1'733 MyBatchPreparedStmt.java
+19.06.2020  16:12             1'635 MyBlobInsert.java
+19.06.2020  16:12             2'176 MyBlobRead.java
+19.06.2020  16:12               806 MyConnWithProperties.java
+19.06.2020  16:12             1'487 MyCursorCallableStmt.java
+19.06.2020  16:12             1'239 MyDatabaseMetadata.java
+19.06.2020  16:12             1'658 MyExecuteMethod.java
+19.06.2020  16:12             1'443 MyFunctionCallableStmt.java
+19.06.2020  16:12             1'446 MyOutparmCallableStmt.java
+19.06.2020  16:12             1'656 MyPrepStmtResltSet.java
+19.06.2020  16:16             1'499 MyPreparedStatement.java
+19.06.2020  16:18             1'291 MyQueryUpdate.java
+19.06.2020  16:12             1'194 MyResultSetEx.java
+19.06.2020  16:12             1'507 MyResultSetMetadata.java
+19.06.2020  16:12             1'748 MyScrollableResultSetEx.java
+19.06.2020  16:12             1'255 MySimpleCallableStatement.java
+19.06.2020  16:12             1'685 MyStatementBatchUpdate.java
+19.06.2020  16:12             1'533 MyUpdatableResultSet.java
+              23 Datei(en),         32'686 Bytes
+
+ Verzeichnis von E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF\15 - GIT\Java_Sort_Examples
+
+19.06.2020  16:12    <DIR>          .
+19.06.2020  16:12    <DIR>          ..
+19.06.2020  16:12             1'044 MyBubbleSort.java
+19.06.2020  16:12               748 MyInsertionSort.java
+19.06.2020  16:12             1'904 MyMergeSort.java
+19.06.2020  16:12             2'065 MyQuickSort.txt
+19.06.2020  16:12               787 MySelectionSort.java
+               5 Datei(en),          6'548 Bytes
+
+     Anzahl der angezeigten Dateien:
+             118 Datei(en),        125'866 Bytes
+             161 Verzeichnis(se), 128'358'547'456 Bytes frei

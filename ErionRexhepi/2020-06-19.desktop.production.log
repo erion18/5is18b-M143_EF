@@ -1,0 +1,80 @@
+2020-06-19T12:15:54.663Z - info: [main] Received possible protocol arguments: 2
+2020-06-19T12:15:54.669Z - error: [main] Malformed launch arguments received: C:\Users\Erioni\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe,--squirrel-firstrun
+2020-06-19T12:15:55.748Z - info: [ui] [AppStore] loading 0 repositories from store
+2020-06-19T12:15:55.789Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:15:55.798Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:15:56.242Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:15:56.443Z - info: [ui] launching: 2.5.2 (Windows 10.0.18362)
+2020-06-19T12:15:56.443Z - info: [ui] execPath: 'C:\Users\Erioni\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T12:15:56.589Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:15:57.734Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.459s)
+2020-06-19T12:15:58.490Z - info: [ui] Opt in reported.
+2020-06-19T12:16:10.395Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2020-06-19T12:16:10.396Z - info: [ui] [SignInStore] initializing OAuth flow
+2020-06-19T12:16:10.398Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=faebca35-402a-478d-9d97-829d9972e159
+2020-06-19T12:16:10.398Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2020-06-19T12:16:10.678Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:16:23.815Z - info: [main] Received possible protocol arguments: 5
+2020-06-19T12:16:23.816Z - info: [main] Processing protocol url
+2020-06-19T12:16:23.835Z - info: [ui] [Dispatcher] requesting authenticated user
+2020-06-19T12:16:23.847Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:16:23.939Z - info: [main] Received possible protocol arguments: 3
+2020-06-19T12:16:23.940Z - info: [main] Processing protocol url
+2020-06-19T12:16:25.513Z - info: [ui] [SignInStore] account resolved
+2020-06-19T12:16:25.513Z - info: [ui] [AppStore] adding account erion18 (erion18) to store
+2020-06-19T12:16:25.528Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2020-06-19T12:16:25.587Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:16:26.130Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:16:48.753Z - info: [ui] [Welcome] advancing to step: UsageOptOut
+2020-06-19T12:16:50.908Z - info: [ui] Opt in reported.
+2020-06-19T12:17:58.270Z - info: [ui] [AppStore] adding repository at C:\GitHub\EchoServer to store
+2020-06-19T12:17:59.694Z - info: [ui] Executing isUsingLFS: git lfs track (took 1.275s)
+2020-06-19T12:18:51.184Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master --set-upstream --progress (took 7.973s)
+2020-06-19T12:18:54.851Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.582s)
+2020-06-19T12:22:56.761Z - info: [ui] [Timing] Action 'create commit' for 'erion18/EchoServer' took 1.336s
+2020-06-19T12:23:07.317Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: EchoServer - erion18 (has token)
+2020-06-19T12:23:13.288Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 5.884s)
+2020-06-19T12:23:17.604Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 4.231s)
+2020-06-19T12:28:42.189Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: EchoServer - erion18 (has token)
+2020-06-19T12:28:45.895Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.618s)
+2020-06-19T13:00:18.316Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 4.545s)
+2020-06-19T13:37:54.654Z - warn: [ui] getFetchPollInterval: failed for erion18/EchoServer
+TypeError: Failed to fetch
+2020-06-19T14:03:14.984Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-19T14:03:14.989Z - info: [ui] [AppStore] found account: erion18 (erion18)
+2020-06-19T14:03:16.364Z - info: [ui] launching: 2.5.2 (Windows 10.0.18362)
+2020-06-19T14:03:16.364Z - info: [ui] execPath: 'C:\Users\Erioni\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T14:03:17.286Z - info: [ui] Stats reported.
+2020-06-19T14:03:18.716Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 2.455s)
+2020-06-19T14:03:21.163Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.642s)
+2020-06-19T14:04:40.104Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-19T14:04:40.108Z - info: [ui] [AppStore] found account: erion18 (erion18)
+2020-06-19T14:04:40.975Z - info: [ui] launching: 2.5.2 (Windows 10.0.18362)
+2020-06-19T14:04:40.976Z - info: [ui] execPath: 'C:\Users\Erioni\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T14:04:42.220Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.285s)
+2020-06-19T14:04:48.377Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-19T14:05:45.024Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-19T14:09:20.730Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-19T14:09:20.733Z - info: [ui] [AppStore] found account: erion18 (erion18)
+2020-06-19T14:09:21.790Z - info: [ui] launching: 2.5.2 (Windows 10.0.18362)
+2020-06-19T14:09:21.791Z - info: [ui] execPath: 'C:\Users\Erioni\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T14:09:22.936Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.190s)
+2020-06-19T14:10:52.152Z - info: [ui] No submodules found. Skipping "git submodule status"
+2020-06-19T14:10:58.787Z - info: [ui] No submodules found. Skipping "git submodule status"
+2020-06-19T14:12:32.459Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/erion18/5is18b-M143_EF.git - erion18 (has token)
+2020-06-19T14:12:37.714Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/erion18/5is18b-M143_EF.git E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF (took 5.120s)
+2020-06-19T14:12:37.802Z - info: [ui] [AppStore] adding repository at E:\01 - BBW\Modul 143\15 - GIT\Java_Sort_Examples\5is18b-M143_EF to store
+2020-06-19T14:12:39.601Z - info: [ui] Executing isUsingLFS: git lfs track (took 1.685s)
+2020-06-19T14:12:40.459Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-19T14:14:33.851Z - info: [ui] [Timing] Action 'create commit' for 'erion18/5is18b-M143_EF' took 1.422s
+2020-06-19T14:14:38.656Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - erion18 (has token)
+2020-06-19T14:14:45.798Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 7.050s)
+2020-06-19T14:14:48.899Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.018s)
+2020-06-19T14:17:02.755Z - info: [ui] [Timing] Action 'create commit' for 'erion18/5is18b-M143_EF' took 1.338s
+2020-06-19T14:17:03.208Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - erion18 (has token)
+2020-06-19T14:17:09.714Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 6.417s)
+2020-06-19T14:17:13.256Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.460s)
+2020-06-19T14:18:21.737Z - info: [ui] [Timing] Action 'create commit' for 'erion18/5is18b-M143_EF' took 1.332s
+2020-06-19T14:18:23.327Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - erion18 (has token)
+2020-06-19T14:18:30.049Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 6.637s)
+2020-06-19T14:18:33.440Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.308s)

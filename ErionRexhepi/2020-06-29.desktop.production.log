@@ -1,0 +1,16 @@
+2020-06-29T19:34:35.056Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-29T19:34:35.084Z - info: [ui] [AppStore] found account: erion18 (erion18)
+2020-06-29T19:34:36.199Z - info: [ui] launching: 2.5.2 (Windows 10.0.18362)
+2020-06-29T19:34:36.200Z - info: [ui] execPath: 'C:\Users\Erioni\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-29T19:34:36.832Z - info: [ui] Stats reported.
+2020-06-29T19:34:37.381Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.209s)
+2020-06-29T19:34:54.151Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-29T19:34:57.593Z - info: [main] opening in browser: https://help.github.com/articles/set-up-git/#setting-up-git
+2020-06-29T19:35:02.569Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.611s)
+2020-06-29T19:35:09.084Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-29T19:35:11.324Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-29T19:35:11.478Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-29T19:36:09.483Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-29T19:36:10.846Z - info: [ui] calling captureCommandOutput(where git)
+2020-06-29T19:44:31.400Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EF - erion18 (has token)
+2020-06-29T19:44:33.316Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.538s)
