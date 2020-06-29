@@ -1,0 +1,8 @@
+Erion Rexhepi: Memberlist and Repository created
+Erion Rexhepi: Suffix zu .java geändert -> Java_File_IO_Examples File: MyFilteredFileList.java
+Filip Milosavljevic: Suffix zu .java geändert -> Java_JDBC_Examples File: MyBatchCallableStatement.java
+Erion Rexhepi: Name in Zeile 23 hinzugefügt -> Directory: Java_JDBC_Examples File: MyPreparedStatement.java
+Filip Milosavljevic: Name in Zeile 30 hinzugefügt -> Directory: Java_JDBC_Examples File: MyPreparedStatement.java
+Erion Rexhepi: Merge Konflikt von "200" zu "201" geändert. -> Directory: Java_JDBC_Examples File: MyQueryUpdate.java
+Filip Milosavljevic: Merge Konflikt von "200" zu "201" geändert. -> Directory: Java_JDBC_Examples File: MyQueryUpdate.java
+Erion Rexhepi: Email gesendet
